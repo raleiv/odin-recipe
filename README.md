@@ -1,1 +1,1 @@
-# odin-recipe
+Practice Recipe page as per curriculum of T.O.P.
