@@ -1,0 +1,45 @@
+.header {
+     display:flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     background-color: black;
+}
+
+
+h1 {
+    color: rgb(72, 62, 218);
+    font size: x large;
+    font-weight: 700;
+}
+
+.first2 {
+    display:flex;
+    justify-content:space-between;
+}
+
+.mary {
+    display:flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.disaster{
+    display:flex;
+    justify-content: flex-end;
+    align-items:center;
+}
+
+.body{
+    display:flex;
+    justify-content: center;
+    background-color: black;
+    color: rgb(72, 62, 218);
+    font size: x large;
+    font-weight: 700;
+    flex: wrap; 
+    margin: 200px;
+    padding: 200px;
+
+
+
+}
